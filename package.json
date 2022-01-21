@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/saefulbhq/websocket-server.git",
   "author": "oltpool",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.4.2"
+  }
 }
